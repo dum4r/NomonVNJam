@@ -1,0 +1,18 @@
+{
+ "Lang": "Español",
+ "Position": {
+  "X": 0,
+  "Y": 23
+ },
+ "Dimesion": {
+  "X": 1920,
+  "Y": 1080
+ },
+ "Fullscreen": true,
+ "TPS": 60,
+ "Ticks": 15,
+ "TimeAutoSave": 1,
+ "Obj": {
+  "Name": "Pepito"
+ }
+}
