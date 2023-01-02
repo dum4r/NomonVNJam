@@ -2,16 +2,16 @@
 
 ### Use Go and Ebitengine
 
-this project is a WinterJam2022, I use golang and ebitengine. es mi primer intento de video juego y mi primera jam
-(nota el projecto esta mal optimizado)
-Contiene:
-- impreso de fuentes
-- gestion de idiomas
-- configuraciones de usuario
-- cambios de escenas y en memoria
-- escalamiento y pocision de elementos en pantalla
-- Nota: El proyecto no esta terminado fue un acercamiento para aprender
+this project is a WinterJam2022, I use golang and ebitengine. It's my first video game attempt and my first jam
+(note that the project is poorly optimized)
+Contains:
+- printed fonts
+- language management
+- user settings
+- scene and memory changes
+- scaling and position of elements on the screen
+- Note: The project is not finished, it was an approach to learn
 
-PDT: las fuentes y los fondo, creditos a quien corresponda
+PDT: sources and background, credits to whom it may concern
 
 ![myimg](README/img.png)
